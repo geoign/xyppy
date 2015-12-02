@@ -4,6 +4,10 @@ import os,numpy
 import libIO, libUTM
 from Grid import Grid
 
+## PointCloud.py ##
+## Managinc XYZ data
+## *Space delimited *.xyz file: "X Y Z\n" in ascii, is recommended.
+
 class PointCloud:
     __isfirst__ = True #For stats()
     extent, pts = [], 0

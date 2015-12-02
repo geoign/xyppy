@@ -21,13 +21,18 @@ xyppy also provides some advanced interfaces to make the evaluation and handling
 Despite xyppy is written in python, it is quite hard-coded in its I-O in order to get the great performance.
 It is sometimes 10000000000x faster than your "easy programming". (WARNING: The number is a bluff)
 
-Anyway, it is awesome. 
+Anyway, it is awesome.
 
 End.
-----------------------------------------------------------
 
-Usage: 
+----------------------------------------------------------
+Usage:
 
 Coming soon in the next geological epoch :)
+
+----------------------------------------------------------
+Known issues:
+
+A lot of bugs :)
 
 ----------------------------------------------------------

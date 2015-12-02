@@ -2,7 +2,6 @@
 Library for processing gigabytes of XYZ data.
 
 Maintained by Fumi "GeoIGN" Ikegami at University of Tasmania
-Licensed under MIT License.
 
 Contact:
 f.ikegami at gmail.com or @geoign @fikgm in Twitter
